@@ -1,0 +1,25 @@
+# Cursor IDE files
+.cursor/
+
+# MetaTrader 5 compiled files
+*.ex5
+
+# Temporary files
+*.tmp
+*.temp
+
+# Log files
+*.log
+
+# Backup files
+*.bak
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
